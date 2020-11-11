@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dwarf:steel"
+    }
+  ],
+  "result":
+  {
+    "item": "dwarf:steel_nugget",
+    "count": 9
+  }
+}

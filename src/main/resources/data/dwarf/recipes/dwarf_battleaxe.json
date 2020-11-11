@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xbx",
+    "xax",
+    "faf"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "dwarf:steel"
+    },
+     "b":
+        {
+          "item": "dwarf:steel_block"
+        }, "a":
+  {
+    "item": "minecraft:stick"
+  }, "f":
+  {
+    "item": "minecraft:air"
+  }
+  },
+
+
+  "result":
+  {
+    "item": "dwarf:dwarf_battleaxe",
+    "count": 1
+  }
+}

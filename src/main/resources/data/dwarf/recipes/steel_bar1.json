@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "dwarf:steel_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "dwarf:steel",
+    "count": 1
+  }
+}

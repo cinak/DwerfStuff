@@ -1,0 +1,13 @@
+{
+  "item.dwarf.steel": "Steel Bar",
+  "item.dwarf.steel_nugget": "Steel Nugget",
+  "item.dwarf.steel_mix": "Steel Mix",
+  "item.dwarf.dwarf_battleaxe": "Dwarf Battle Axe",
+  "item.dwarf.dwarf_hammer": "Dwarf Hammer",
+  "item.dwarf.dwarf_handle": "Dwarf Handle",
+  "item.dwarf.dwarf_sword": "Dwarf Sword",
+  "item.dwarf.dwarf_scimitar": "Dwarf Scimitar",
+  "item.dwarf.dwarf_mace": "Dwarf Mace",
+  "block.dwarf.steel_block": "Block Of Steel",
+  "itemGroup.DwarfStuff": "Dwarf Stuff"
+}

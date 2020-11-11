@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ore"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result":
+  {
+    "item": "dwarf:steel_mix",
+    "count": 1
+  }
+}

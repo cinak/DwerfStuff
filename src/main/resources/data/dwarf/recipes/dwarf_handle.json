@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dwarf:steel_block"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result":
+  {
+    "item": "dwarf:dwarf_handle",
+    "count": 1
+  }
+}

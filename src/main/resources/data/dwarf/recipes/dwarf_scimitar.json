@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "fbx",
+    "fbf",
+    "faf"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "dwarf:steel"
+    },
+     "b":
+        {
+          "item": "dwarf:steel_block"
+        }, "a":
+  {
+    "item": "dwarf:dwarf_handle"
+  }, "f":
+  {
+    "item": "minecraft:air"
+  }
+  },
+
+
+  "result":
+  {
+    "item": "dwarf:dwarf_scimitar",
+    "count": 1
+  }
+}

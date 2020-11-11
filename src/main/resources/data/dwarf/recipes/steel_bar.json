@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dwarf:steel_block"
+    }
+  ],
+  "result":
+  {
+    "item": "dwarf:steel",
+    "count": 9
+  }
+}
